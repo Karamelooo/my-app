@@ -1,6 +1,3 @@
-import {
-    Link
-  } from "react-router-dom";
 import Profil from '../components/Profil';
 import Skills from '../components/Skills';
 import Hobbies from '../components/Hobbies';
