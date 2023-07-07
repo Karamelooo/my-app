@@ -25,7 +25,8 @@ const Navigation = ({children}) => {
             {children}
         </div>
         <footer id="main-footer">
-            IPSSI
+            <h4>Hugo PETIT</h4>
+            <h4>IPSSI</h4>
         </footer>
         </>
     )

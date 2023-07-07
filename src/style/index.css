@@ -50,6 +50,7 @@ code {
 
 #main-header, #main-footer {
   width:8vw;
+  text-align:center;
 }
 
 #main-header, #main-footer, .container-column {
