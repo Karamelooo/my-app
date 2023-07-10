@@ -1,14 +1,12 @@
-const Column = ({title, children}) => {
-    return(
+const Column = ({ title, children }) => {
+    return (
         <>
-            <div class="container-column">
+            <div className="container-column">
                 <h2>{title}</h2>
-                <p>
-                    {children}
-                </p>
+                <p>{children}</p>
             </div>
         </>
-    )
-}
+    );
+};
 
 export default Column;

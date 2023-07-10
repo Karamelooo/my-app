@@ -1,5 +1,5 @@
 const Profil = (props) => {
-    return(
+    return (
         <>
             <section id="profil">
                 <h3>Profil</h3>
@@ -11,7 +11,7 @@ const Profil = (props) => {
                 </ul>
             </section>
         </>
-    )
-}
+    );
+};
 
 export default Profil;
